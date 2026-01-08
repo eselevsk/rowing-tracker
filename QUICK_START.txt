@@ -1,0 +1,27 @@
+🚣 QUICK START - iPhone Setup
+=============================
+
+STEP 1: Generate Icons
+-----------------------
+1. Open "ICON_GENERATOR.html" in your browser
+2. Click "Generate All Icons" button
+3. 8 icon files will download to your Downloads folder
+4. Move all icon files to the "icons" folder in this directory
+
+STEP 2: Follow Detailed Instructions
+-------------------------------------
+Open "GITHUB_SETUP_INSTRUCTIONS.md" for complete step-by-step guide.
+
+The instructions will walk you through:
+- Creating a GitHub account/repository
+- Uploading your files
+- Enabling GitHub Pages
+- Installing on your iPhone
+
+Total time: ~30-45 minutes for first-time setup
+
+Your app will be accessible at:
+https://YOUR-USERNAME.github.io/rowing-tracker/
+
+Good luck! 🚣‍♂️
+
