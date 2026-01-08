@@ -1,5 +1,5 @@
 // Service Worker for Rowing Tracker PWA
-const CACHE_NAME = 'rowing-tracker-v1';
+const CACHE_NAME = 'rowing-tracker-v2';
 const urlsToCache = [
   './',
   './index.html',
