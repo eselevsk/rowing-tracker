@@ -343,7 +343,6 @@ function updateDisplay() {
     document.getElementById('daysActive').textContent = rowingData.length;
     document.getElementById('dailyAverage').textContent = dailyAverage.toFixed(2) + ' km';
     document.getElementById('remainingDistance').textContent = remainingDistance.toFixed(2) + ' km';
-    document.getElementById('weeklyAvg1Year').textContent = WEEKLY_AVG_1_YEAR + ' km';
     
     // Update progress bar
     document.getElementById('distanceProgress').style.width = Math.min(100, progress) + '%';
